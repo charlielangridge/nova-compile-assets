@@ -1,5 +1,5 @@
 {
-    "name": "charlielangridge/compile-assets",
+    "name": "charlielangridge/nova-compile-assets",
     "description": "A simple Laravel Nova tool to run Yarn from within Nova.",
     "keywords": [
         "laravel",
