@@ -1,0 +1,29 @@
+{
+    "name": "charlielangridge/compile-assets",
+    "description": "A simple Laravel Nova tool to run Yarn from within Nova.",
+    "keywords": [
+        "laravel",
+        "nova"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CharlieLangridge\\CompileAssets\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "CharlieLangridge\\CompileAssets\\ToolServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
