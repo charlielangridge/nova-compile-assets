@@ -1,6 +1,6 @@
 <?php
 
-namespace Ganda\CompileAssets\Http\Middleware;
+namespace CharlieLangridge\CompileAssets\Http\Middleware;
 
 use Laravel\Nova\Nova;
 use Ganda\CompileAssets\CompileAssets;

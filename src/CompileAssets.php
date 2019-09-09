@@ -1,6 +1,6 @@
 <?php
 
-namespace Ganda\CompileAssets;
+namespace CharlieLangridge\CompileAssets;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool;
