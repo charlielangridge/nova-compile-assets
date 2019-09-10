@@ -3,7 +3,7 @@
 namespace CharlieLangridge\CompileAssets\Http\Middleware;
 
 use Laravel\Nova\Nova;
-use Ganda\CompileAssets\CompileAssets;
+use CharlieLangridge\CompileAssets\CompileAssets;
 
 class Authorize
 {
